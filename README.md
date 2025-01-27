@@ -93,14 +93,4 @@ Les objectifs spécifiques sont :
    - Actions spécifiques pour chaque groupe, comme des campagnes de réactivation ou de fidélisation.
 
 
----
-
-## Contact
-
-Pour toute question ou demande de collaboration, vous pouvez me contacter :
-- **Email** : yannickquerin@gmail.com
-- **LinkedIn** : [Yannick Quérin](https://linkedin.com/in/yannick-quérin/)
-- **GitHub** : [YannickQuerin](https://github.com/YannickQuerin)
-
----
 
