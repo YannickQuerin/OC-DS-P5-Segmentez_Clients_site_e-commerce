@@ -10,7 +10,7 @@ Les objectifs spécifiques sont :
 - Comprendre les différents types de clients via leurs comportements, leurs données personnelles, etc.
 - Proposer un contrat de maintenance pour évaluer la stabilité des segments au fil du temps.
 
-![Objectifs du projet](images/objectif_du_projet.png)
+![Objectifs du projet](Illustration_diapos/objectifs_projet_P5.png)
 
 ---
 
@@ -18,7 +18,7 @@ Les objectifs spécifiques sont :
 
 **Olist** est une plateforme e-commerce fondée en 2016, qui connecte acheteurs et vendeurs. Elle gère les commandes, paiements, suivis de livraison, et les avis des clients.
 
-![Contexte Olist](images/contexte.png)
+![Contexte Olist](Illustration_diapos/contexte_P5.png)
 
 ---
 
@@ -33,7 +33,7 @@ Les objectifs spécifiques sont :
      - **Comportementaux** : récence, fréquence, montant moyen du panier (RFM).
      - **Psychologiques** : note de satisfaction.
 
-![Données utilisées](images/donnees_utilisees.png)
+![Données utilisées](Illustration_diapos/données_utilisees.png)
 
 ---
 
@@ -44,7 +44,7 @@ Les objectifs spécifiques sont :
 - Résultats exprimés en scores (exemple : 444 pour les meilleurs clients, 111 pour les moins actifs).
 - Définition de groupes : **Champions**, **Fidèles**, **Clients à risque**, etc.
 
-![Segmentation RFM](images/segmentation_rfm.png)
+![Segmentation RFM](Illustration_diapos/segmentation_RFM.png)
 
 ### 2. Apprentissage non supervisé (Clustering)
 - Algorithmes testés : **K-Means**, **K-Means avec ACP**, et **K-Prototype**.
@@ -53,7 +53,7 @@ Les objectifs spécifiques sont :
   - **Réduction de dimensionnalité** : ACP, TSNE.
 - Critères d’évaluation : silhouette, Davies-Bouldin, indice de Gini.
 
-![Méthodologie Clustering](images/methodologie_clustering.png)
+![Méthodologie Clustering](Illustration_diapos/methodologie_clustering.png)
 
 ---
 
@@ -65,7 +65,9 @@ Les objectifs spécifiques sont :
   - Bonne stabilité sur 3 mois.
   - Segments homogènes et actionnables.
 
-![Résultats du modèle](images/resultats_final.png)
+![Résultats du modèle](Illustration_diapos/resultat_final.png)
+
+![Résultats du modèle](Illustration_diapos/resultat_final1.png)
 
 ### Types de clients identifiés
 1. **Meilleurs clients** utilisant les facilités de paiement.
@@ -74,7 +76,7 @@ Les objectifs spécifiques sont :
 4. **Clients presque perdus**.
 5. **Bons clients** sur le point de devenir inactifs.
 
-![Types de clients](images/types_clients.png)
+![Types de clients](Illustration_diapos/clients_identifies.png)
 
 ---
 
@@ -90,7 +92,6 @@ Les objectifs spécifiques sont :
    - Mise à jour trimestrielle pour surveiller la stabilité des segments.
    - Actions spécifiques pour chaque groupe, comme des campagnes de réactivation ou de fidélisation.
 
-![Propositions futures](images/propositions_futures.png)
 
 ---
 
